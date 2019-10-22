@@ -1,0 +1,12 @@
+{
+  "name": "nst",
+  "version": "",
+  "description": "",
+  "modules": [
+    "src"
+  ],
+  "files": [],
+  "author": "",
+  "repository": "",
+  "dependencies": []
+}
